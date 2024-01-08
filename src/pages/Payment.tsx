@@ -1,4 +1,3 @@
-import React from "react";
 import { LiaQuestionCircleSolid } from "react-icons/lia";
 import { HiMiniMagnifyingGlass } from "react-icons/hi2";
 import { HiSpeakerphone } from "react-icons/hi";

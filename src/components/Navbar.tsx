@@ -1,4 +1,3 @@
-import React, { useEffect } from "react";
 import { GoHome } from "react-icons/go";
 import { TbNotes } from "react-icons/tb";
 import { CiDeliveryTruck } from "react-icons/ci";
